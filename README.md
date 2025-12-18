@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @Daito-39
-- 📫 How to reach me: Daito#4301
+👋 Hi, I’m Izzy
+
+Grad from the University of Birmingham with a Masters' in Computer Science.
+Open for work opportunities, contact via isabelle@daito.blog
